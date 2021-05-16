@@ -14,6 +14,8 @@ int ctrltab(HWND);
 
 int main()
 {
+        
+    
     CoInitialize(NULL);
     HWND hwnd = NULL;
     while (true)
@@ -25,14 +27,7 @@ int main()
             continue;
 
 
-
         ShowWindow(hwnd, 3);
-        /*
-        //Getting the HWND of Chrome
-        HWND chromeWindow = FindWindow(L"Chrome_WidgetWin_1", NULL);
-        HWND chrome = GetWindow(chromeWindow, GW_HWNDNEXT);
-        //Setting the window to the foreground (implies focus and activating)
-        */
         SetForegroundWindow(hwnd);
 
 
@@ -128,10 +123,11 @@ int main()
     return 0;
 }
 
+/// @brief This function applies "CTRL+TAB" to the chrome window 
+/// @param hwnd related window handler
+/// @return int 1 if no error exists
 int ctrltab(HWND hwnd)
 {
-    
-    //Bring the Notepad window to the front.
     if (!SetForegroundWindow(hwnd))
         return 0;
 
@@ -157,6 +153,8 @@ int ctrltab(HWND hwnd)
     // Ctrl Up
     input.ki.wVk = VK_CONTROL;
     SendInput(1, &input, sizeof(INPUT));
+
+    return 1;
 }
 
 
