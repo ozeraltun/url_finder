@@ -1,0 +1,20 @@
+Writing this to a file.
+stackoverflow.com/questions/4804298/how-to-convert-wstring-into-string
+elektormagazine.com/articles/ai-max78000-feather-board
+elektormagazine.com/ai-contest-max78000
+google.com/search?q=MAX78000+github+image+recognition&oq=MAX78000+github+image+recognition&aqs=chrome..69i57j33i10i160.12348j0j7&sourceid=chrome&ie=UTF-8
+github.com/MaximIntegratedAI
+github.com/MaximIntegratedAI/MAX78000_SDK/tree/master/Examples/MAX78000/CNN
+github.com/MaximIntegratedAI/MaximAI_Documentation
+github.com/MaximIntegratedAI/ai8x-training
+google.com/search?q=c%2B%2B+program+run+by+clicking&sxsrf=ALeKk01uIe8YyFOw3Oige1thxOZ3INCcog%3A1623184090038&ei=2tK_YLzZAamnrgTS7aPYCg&oq=c%2B%2B+program+run+by+clicking&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEAoQoAE6BwgAEEcQsAM6BAgAEBM6BQgAEMsBOgYIABAWEB46CAghEBYQHRAeOgUIIRCgAVCJFVjxL2DzMGgCcAJ4AIABxAGIAaETkgEEMC4xNpgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwi8rt3474jxAhWpk4sKHdL2CKsQ4dUDCBE&uact=5
+stackoverflow.com/questions/46426136/cannot-run-a-program-by-clicking-on-it-while-i-can-from-terminal
+cplusplus.com/forum/beginner/173352/
+stackoverflow.com/questions/19287273/c-how-to-create-an-executable-out-of-my-program
+stackoverflow.com/questions/4108313/how-do-i-find-the-length-of-an-array
+google.com/search?q=visual+studio+c%2B%2B+exe+file&oq=visual+studio+c%2B%2B+exe+file&aqs=chrome.0.0i19l3j0i19i22i30l7.10587j0j7&sourceid=chrome&ie=UTF-8
+wikihow.com/Compile-CPP-File-to-EXE
+github.com/ozeraltun/url_finder/settings/access
+stackoverflow.com/questions/2393863/set-an-exe-icon-for-my-program
+stackoverflow.com/questions/320677/how-do-i-set-the-icon-for-my-application-in-visual-studio-2008
+convertico.com

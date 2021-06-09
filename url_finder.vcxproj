@@ -142,6 +142,15 @@
     <ClCompile Include="gui_part.cpp" />
     <ClCompile Include="url_finder.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="url_finder.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="UrlFinderIcon.ico" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
